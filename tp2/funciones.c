@@ -150,7 +150,7 @@ void mostrarPersonas(ePersona personas[],int tamArray)
 void graficarEdades(ePersona personas[],int tamArray)
 {
     int i,mayor;
-    int bandera;
+    int bandera = 0;
     int hasta18 = 0;
     int de19a35 = 0;
     int masDe35 = 0;
