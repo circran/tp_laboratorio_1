@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1472401296 source:d:\utn\programacion_1\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1472426472 
+
+1472700300 source:d:\utn\programacion_1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circran.h"
+
+1472610725 source:/media/alan/Disco local/UTN/programacion_1/TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1472700455 source:d:\utn\programacion_1\tp1\circran.c
+	<stdio.h>
+	<stdlib.h>
+
+1472610934 d:\utn\programacion_1\tp1\circran.h
+
+1472945565 source:c:\utn\tp1\tp_laboratorio_1\circran.c
+	<stdio.h>
+	<stdlib.h>
+
+1472943551 source:c:\utn\tp1\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circran.h"
+
+1472945565 c:\utn\tp1\tp_laboratorio_1\circran.h
+
