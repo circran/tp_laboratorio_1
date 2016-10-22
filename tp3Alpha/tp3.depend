@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1477088409 source:d:\utn\programacion_1\tp_laboratorio_1\tp3\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1477088409 d:\utn\programacion_1\tp_laboratorio_1\tp3\lib.h
+
+1477087541 source:d:\utn\programacion_1\tp_laboratorio_1\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Movies.h"
+	"lib.h"
+
+1477091580 d:\utn\programacion_1\tp_laboratorio_1\tp3\movies.h
+
+1477089742 source:d:\utn\programacion_1\tp_laboratorio_1\tp3\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"lib.h"
+	"Movies.h"
+
+1477065656 source:d:\usuarios\alan\documents\mega\utn\tp_laboratorio_1\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Movies.h"
+	"lib.h"
+
+1477068252 d:\usuarios\alan\documents\mega\utn\tp_laboratorio_1\tp3\movies.h
+
+1477020147 d:\usuarios\alan\documents\mega\utn\tp_laboratorio_1\tp3\lib.h
+
+1477066844 source:d:\usuarios\alan\documents\mega\utn\tp_laboratorio_1\tp3\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1477068252 source:d:\usuarios\alan\documents\mega\utn\tp_laboratorio_1\tp3\movies.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"Movies.h"
+
+1477088409 source:d:\utn\programacion_1\tp_laboratorio_1\tp3alpha\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1477088409 d:\utn\programacion_1\tp_laboratorio_1\tp3alpha\lib.h
+
+1477087541 source:d:\utn\programacion_1\tp_laboratorio_1\tp3alpha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Movies.h"
+	"lib.h"
+
+1477091580 d:\utn\programacion_1\tp_laboratorio_1\tp3alpha\movies.h
+
+1477095216 source:d:\utn\programacion_1\tp_laboratorio_1\tp3alpha\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"lib.h"
+	"Movies.h"
+
